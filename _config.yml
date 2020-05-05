@@ -1,5 +1,5 @@
 
-title: home
+title: 아이용TV 한글짱
 desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
 url: https://iyongtv.github.io
 permalink: ':title/'
@@ -11,7 +11,7 @@ full-version: "https://iyongtv.github.io"
 sass:
     style: compressed
 
-  
+
 #optimization
 #compress.html
 compress_html:
@@ -35,11 +35,11 @@ disqus-shortname: webjeda-demo
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
-api-token:   
+api-token:
 
 include: [_pages]
 version: 0.8
 
-plugins: 
+plugins:
     - jekyll-paginate
     - jekyll-seo-tag
