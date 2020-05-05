@@ -1,12 +1,12 @@
 
 title: Karna
 desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: https://iyongtv.github.io/home/
+url: https://iyongtv.github.io
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
-full-version: "http://webjeda.com/karna-full/"
+baseurl: "/home"
+full-version: "https://iyongtv.github.io"
 
 sass:
     style: compressed
